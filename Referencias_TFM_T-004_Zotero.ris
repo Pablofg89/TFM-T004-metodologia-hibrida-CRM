@@ -1,0 +1,704 @@
+TY  - CONF
+AU  - Amershi, S.
+AU  - Begel, A.
+AU  - Bird, C.
+AU  - DeLine, R.
+AU  - Gall, H.
+AU  - Kamar, E.
+AU  - Nagappan, N.
+AU  - Nushi, B.
+AU  - Zimmermann, T.
+PY  - 2019
+TI  - Software engineering for machine learning: A case study
+T2  - 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+SP  - 291
+EP  - 300
+DO  - 10.1109/ICSE-SEIP.2019.00042
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Amershi, S., Begel, A., Bird, C., DeLine, R., Gall, H., Kamar, E., Nagappan, N., Nushi, B., y Zimmermann, T. (2019). Software engineering for machine learning: A case study. En 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (pp. 291–300). https://doi.org/10.1109/ICSE-SEIP.2019.00042
+ER  - 
+
+TY  - CONF
+AU  - Baijens, J.
+AU  - Helms, R.
+AU  - Iren, D.
+PY  - 2020
+TI  - Applying Scrum in data science projects
+T2  - 2020 IEEE 22nd Conference on Business Informatics (CBI)
+SP  - 30
+EP  - 38
+DO  - 10.1109/CBI49978.2020.00011
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Baijens, J., Helms, R., e Iren, D. (2020). Applying Scrum in data science projects. En 2020 IEEE 22nd Conference on Business Informatics (CBI) (pp. 30–38). https://doi.org/10.1109/CBI49978.2020.00011
+ER  - 
+
+TY  - JOUR
+AU  - Kreuzberger, D.
+AU  - Kühl, N.
+AU  - Hirschl, S.
+PY  - 2023
+TI  - Machine learning operations (MLOps): Overview, definition, and architecture
+T2  - IEEE Access
+SP  - 31866
+EP  - 31879
+DO  - 10.1109/ACCESS.2023.3262138
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Kreuzberger, D., Kühl, N., y Hirschl, S. (2023). Machine learning operations (MLOps): Overview, definition, and architecture. IEEE Access, 11, 31866–31879. https://doi.org/10.1109/ACCESS.2023.3262138
+ER  - 
+
+TY  - JOUR
+AU  - Martínez-Plumed, F.
+AU  - Contreras-Ochando, L.
+AU  - Ferri, C.
+AU  - Hernández-Orallo, J.
+AU  - Kull, M.
+AU  - Lachiche, N.
+AU  - Ramírez-Quintana, M. J.
+AU  - Flach, P.
+PY  - 2021
+TI  - CRISP-DM twenty years later: From data mining processes to data science trajectories
+T2  - IEEE Transactions on Knowledge and Data Engineering
+SP  - 3048
+EP  - 3061
+DO  - 10.1109/TKDE.2019.2962680
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Martínez-Plumed, F., Contreras-Ochando, L., Ferri, C., Hernández-Orallo, J., Kull, M., Lachiche, N., Ramírez-Quintana, M. J., y Flach, P. (2021). CRISP-DM twenty years later: From data mining processes to data science trajectories. IEEE Transactions on Knowledge and Data Engineering, 33(8), 3048–3061. https://doi.org/10.1109/TKDE.2019.2962680
+ER  - 
+
+TY  - CONF
+AU  - Martinez, I.
+AU  - Viles, E.
+AU  - Olaizola, I. G.
+PY  - 2021
+TI  - A survey study of success factors in data science projects
+T2  - 2021 IEEE International Conference on Big Data
+SP  - 2313
+EP  - 2318
+DO  - 10.1109/BigData52589.2021.9671588
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Martinez, I., Viles, E., y Olaizola, I. G. (2021b). A survey study of success factors in data science projects. En 2021 IEEE International Conference on Big Data (pp. 2313–2318). https://doi.org/10.1109/BigData52589.2021.9671588
+ER  - 
+
+TY  - CONF
+AU  - Saltz, J. S.
+PY  - 2021
+TI  - CRISP-DM for data science: Strengths, weaknesses and potential next steps
+T2  - 2021 IEEE International Conference on Big Data
+DO  - 10.1109/BigData52589.2021.9671634
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Saltz, J. S. (2021). CRISP-DM for data science: Strengths, weaknesses and potential next steps. En 2021 IEEE International Conference on Big Data. https://doi.org/10.1109/BigData52589.2021.9671634
+ER  - 
+
+TY  - CONF
+AU  - Saltz, J. S.
+AU  - Hotz, N.
+PY  - 2020
+TI  - Identifying the most common frameworks data science teams use to structure and coordinate their projects
+T2  - 2020 IEEE International Conference on Big Data
+DO  - 10.1109/BigData50022.2020.9377813
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Saltz, J. S., y Hotz, N. (2020). Identifying the most common frameworks data science teams use to structure and coordinate their projects. En 2020 IEEE International Conference on Big Data. https://doi.org/10.1109/BigData50022.2020.9377813
+ER  - 
+
+TY  - CONF
+AU  - Saltz, J. S.
+AU  - Shamshurin, I.
+PY  - 2019
+TI  - Achieving agile big data science: The evolution of a team's agile process methodology
+T2  - 2019 IEEE International Conference on Big Data
+DO  - 10.1109/BigData47090.2019.9005493
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Saltz, J. S., y Shamshurin, I. (2019). Achieving agile big data science: The evolution of a team's agile process methodology. En 2019 IEEE International Conference on Big Data. https://doi.org/10.1109/BigData47090.2019.9005493
+ER  - 
+
+TY  - JOUR
+AU  - Suh, Y.
+PY  - 2023
+TI  - Exploring the impact of data quality on business performance in CRM systems for home appliance business
+T2  - IEEE Access
+DO  - 10.1109/ACCESS.2023.3325892
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Suh, Y. (2023). Exploring the impact of data quality on business performance in CRM systems for home appliance business. IEEE Access, 11. https://doi.org/10.1109/ACCESS.2023.3325892
+ER  - 
+
+TY  - CONF
+AU  - Tell, P.
+AU  - Klünder, J.
+AU  - Küpper, S.
+AU  - Raffo, D.
+AU  - MacDonell, S. G.
+AU  - Münch, J.
+AU  - Pfahl, D.
+AU  - Linssen, O.
+AU  - Kuhrmann, M.
+PY  - 2019
+TI  - What are hybrid development methods made of? An evidence-based characterization
+T2  - 2019 IEEE/ACM International Conference on Software and System Processes (ICSSP)
+SP  - 105
+EP  - 114
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Tell, P., Klünder, J., Küpper, S., Raffo, D., MacDonell, S. G., Münch, J., Pfahl, D., Linssen, O., y Kuhrmann, M. (2019). What are hybrid development methods made of? An evidence-based characterization. En 2019 IEEE/ACM International Conference on Software and System Processes (ICSSP) (pp. 105–114).
+ER  - 
+
+TY  - JOUR
+AU  - Uysal, M. P.
+AU  - Akturk, E.
+PY  - 2024
+TI  - A systemic approach to machine learning project management
+T2  - IEEE Engineering Management Review
+DO  - 10.1109/EMR.2024.3503677
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: IEEE Xplore
+N1  - Referencia APA: Uysal, M. P., y Akturk, E. (2024). A systemic approach to machine learning project management. IEEE Engineering Management Review. https://doi.org/10.1109/EMR.2024.3503677
+ER  - 
+
+TY  - JOUR
+AU  - Espadinha-Cruz, P.
+PY  - 2021
+TI  - Lead management optimization using data mining: A case in the telecommunications sector
+T2  - Computers & Industrial Engineering
+DO  - 10.1016/j.cie.2021.107122
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: ScienceDirect (Elsevier)
+N1  - Referencia APA: Espadinha-Cruz, P., et al. (2021). Lead management optimization using data mining: A case in the telecommunications sector. Computers & Industrial Engineering, 154, 107122. https://doi.org/10.1016/j.cie.2021.107122
+ER  - 
+
+TY  - JOUR
+AU  - Fannouch, A.
+AU  - Gharib, J.
+AU  - Gahi, Y.
+PY  - 2025
+TI  - Enhancing DataOps practices through innovative collaborative models: A systematic review
+T2  - International Journal of Information Management Data Insights
+DO  - 10.1016/j.jjimei.2025.100321
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: ScienceDirect (Elsevier)
+N1  - Referencia APA: Fannouch, A., Gharib, J., y Gahi, Y. (2025). Enhancing DataOps practices through innovative collaborative models: A systematic review. International Journal of Information Management Data Insights, 5(1), 100321. https://doi.org/10.1016/j.jjimei.2025.100321
+ER  - 
+
+TY  - JOUR
+AU  - Martinez, I.
+AU  - Viles, E.
+AU  - Olaizola, I. G.
+PY  - 2021
+TI  - Data science methodologies: Current challenges and future approaches
+T2  - Big Data Research
+DO  - 10.1016/j.bdr.2020.100183
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: ScienceDirect (Elsevier)
+N1  - Referencia APA: Martinez, I., Viles, E., y Olaizola, I. G. (2021a). Data science methodologies: Current challenges and future approaches. Big Data Research, 24, 100183. https://doi.org/10.1016/j.bdr.2020.100183
+ER  - 
+
+TY  - JOUR
+AU  - Mohammed, S.
+AU  - Budach, L.
+AU  - Feuerpfeil, M.
+AU  - Ihde, N.
+AU  - Nathansen, A.
+AU  - Noack, N.
+AU  - Patzlaff, H.
+AU  - Naumann, F.
+AU  - Harmouch, H.
+PY  - 2025
+TI  - The effects of data quality on machine learning performance on tabular data
+T2  - Information Systems
+DO  - 10.1016/j.is.2025.102549
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: ScienceDirect (Elsevier)
+N1  - Referencia APA: Mohammed, S., Budach, L., Feuerpfeil, M., Ihde, N., Nathansen, A., Noack, N., Patzlaff, H., Naumann, F., y Harmouch, H. (2025). The effects of data quality on machine learning performance on tabular data. Information Systems, 132, 102549. https://doi.org/10.1016/j.is.2025.102549
+ER  - 
+
+TY  - JOUR
+AU  - Schröer, C.
+AU  - Kruse, F.
+AU  - Marx Gómez, J.
+PY  - 2021
+TI  - A systematic literature review on applying CRISP-DM process model
+T2  - Procedia Computer Science
+SP  - 526
+EP  - 534
+DO  - 10.1016/j.procs.2021.01.199
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: ScienceDirect (Elsevier)
+N1  - Referencia APA: Schröer, C., Kruse, F., y Marx Gómez, J. (2021). A systematic literature review on applying CRISP-DM process model. Procedia Computer Science, 181, 526–534. https://doi.org/10.1016/j.procs.2021.01.199
+ER  - 
+
+TY  - JOUR
+AU  - Serrador, P.
+AU  - Pinto, J. K.
+PY  - 2015
+TI  - Does Agile work? A quantitative analysis of agile project success
+T2  - International Journal of Project Management
+SP  - 1040
+EP  - 1051
+DO  - 10.1016/j.ijproman.2015.01.006
+KW  - TFM T-004
+KW  - Origen: Bases de datos académicas: ScienceDirect (Elsevier)
+N1  - Referencia APA: Serrador, P., y Pinto, J. K. (2015). Does Agile work? A quantitative analysis of agile project success. International Journal of Project Management, 33(5), 1040–1051. https://doi.org/10.1016/j.ijproman.2015.01.006
+ER  - 
+
+TY  - JOUR
+AU  - Albrecht, R.
+AU  - Overbeek, S.
+AU  - van de Weerd, I.
+PY  - 2023
+TI  - Designing a data quality management framework for CRM platform delivery and consultancy
+T2  - SN Computer Science
+DO  - 10.1007/s42979-023-02196-z
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Albrecht, R., Overbeek, S., y van de Weerd, I. (2023). Designing a data quality management framework for CRM platform delivery and consultancy. SN Computer Science, 4, 742. https://doi.org/10.1007/s42979-023-02196-z
+ER  - 
+
+TY  - JOUR
+AU  - Ciric Lalic, D.
+AU  - Lalić, B.
+AU  - Delić, M.
+AU  - Gračanin, D.
+AU  - Stefanović, D.
+PY  - 2022
+TI  - How project management approach impact project success? From traditional to agile
+T2  - International Journal of Managing Projects in Business
+SP  - 494
+EP  - 521
+DO  - 10.1108/IJMPB-04-2021-0108
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Ciric Lalic, D., Lalić, B., Delić, M., Gračanin, D., y Stefanović, D. (2022). How project management approach impact project success? From traditional to agile. International Journal of Managing Projects in Business, 15(3), 494–521. https://doi.org/10.1108/IJMPB-04-2021-0108
+ER  - 
+
+TY  - JOUR
+AU  - Gemino, A.
+AU  - Reich, B. H.
+AU  - Serrador, P. M.
+PY  - 2021
+TI  - Agile, traditional, and hybrid approaches to project success: Is hybrid a poor second choice?
+T2  - Project Management Journal
+SP  - 161
+EP  - 175
+DO  - 10.1177/8756972820973082
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Gemino, A., Reich, B. H., y Serrador, P. M. (2021). Agile, traditional, and hybrid approaches to project success: Is hybrid a poor second choice? Project Management Journal, 52(2), 161–175. https://doi.org/10.1177/8756972820973082
+ER  - 
+
+TY  - JOUR
+AU  - Krupa, M.
+AU  - Hájek, J.
+PY  - 2024
+TI  - Hybrid project management models: A systematic literature review
+T2  - International Journal of Project Organisation and Management
+SP  - 233
+EP  - 261
+DO  - 10.1504/IJPOM.2024.139253
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Krupa, M., y Hájek, J. (2024). Hybrid project management models: A systematic literature review. International Journal of Project Organisation and Management, 16(2), 233–261. https://doi.org/10.1504/IJPOM.2024.139253
+ER  - 
+
+TY  - JOUR
+AU  - Mirzaei, M.
+AU  - Mabin, V. J.
+AU  - Zwikael, O.
+PY  - 2024
+TI  - Customising hybrid project management methodologies
+T2  - Production Planning & Control
+DO  - 10.1080/09537287.2024.2349231
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Mirzaei, M., Mabin, V. J., y Zwikael, O. (2024). Customising hybrid project management methodologies. Production Planning & Control. Publicación anticipada en línea. https://doi.org/10.1080/09537287.2024.2349231
+ER  - 
+
+TY  - JOUR
+AU  - Peffers, K.
+AU  - Tuunanen, T.
+AU  - Rothenberger, M. A.
+AU  - Chatterjee, S.
+PY  - 2007
+TI  - A design science research methodology for information systems research
+T2  - Journal of Management Information Systems
+SP  - 45
+EP  - 77
+DO  - 10.2753/MIS0742-1222240302
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Peffers, K., Tuunanen, T., Rothenberger, M. A., y Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45–77. https://doi.org/10.2753/MIS0742-1222240302
+ER  - 
+
+TY  - GEN
+AU  - Rösl, S.
+AU  - Auer, T.
+AU  - Schieder, C.
+PY  - 2023
+TI  - Addressing the data challenge in manufacturing SMEs: A comparative study of data analytics applications with a simplified reference model
+PB  - Springer.
+DO  - 10.1007/978-3-031-40213-5_9
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Rösl, S., Auer, T., y Schieder, C. (2023). Addressing the data challenge in manufacturing SMEs: A comparative study of data analytics applications with a simplified reference model. Springer. https://doi.org/10.1007/978-3-031-40213-59
+ER  - 
+
+TY  - JOUR
+AU  - Rotondo, A.
+AU  - Quilligan, F.
+PY  - 2020
+TI  - Evolution paths for knowledge discovery and data mining process models
+T2  - SN Computer Science
+DO  - 10.1007/s42979-020-0117-6
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Rotondo, A., y Quilligan, F. (2020). Evolution paths for knowledge discovery and data mining process models. SN Computer Science, 1. https://doi.org/10.1007/s42979-020-0117-6
+ER  - 
+
+TY  - JOUR
+AU  - Wu, M.
+AU  - Andreev, P.
+AU  - Benyoucef, M.
+PY  - 2024
+TI  - The state of lead scoring models and their impact on sales performance
+T2  - Information Technology and Management
+SP  - 69
+EP  - 98
+DO  - 10.1007/s10799-023-00388-w
+KW  - TFM T-004
+KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
+N1  - Referencia APA: Wu, M., Andreev, P., y Benyoucef, M. (2024). The state of lead scoring models and their impact on sales performance. Information Technology and Management, 25(1), 69–98. https://doi.org/10.1007/s10799-023-00388-w
+ER  - 
+
+TY  - JOUR
+AU  - Acebes, F.
+AU  - Menéndez, S.
+AU  - Martín-Cruz, N.
+AU  - Pajares, J.
+PY  - 2026
+TI  - De lo predictivo a lo ágil: hacia un marco híbrido en proyectos de I+D+i
+T2  - Dirección y Organización
+DO  - 10.37610/89.757
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Acebes, F., Menéndez, S., Martín-Cruz, N., y Pajares, J. (2026). De lo predictivo a lo ágil: hacia un marco híbrido en proyectos de I+D+i. Dirección y Organización. https://doi.org/10.37610/89.757
+ER  - 
+
+TY  - JOUR
+AU  - González-Flores, L.
+AU  - Rubiano-Moreno, J.
+AU  - Sosa-Gómez, G.
+PY  - 2025
+TI  - The relevance of lead prioritization: A B2B lead scoring model based on machine learning
+T2  - Frontiers in Artificial Intelligence
+DO  - 10.3389/frai.2025.1554325
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: González-Flores, L., Rubiano-Moreno, J., y Sosa-Gómez, G. (2025). The relevance of lead prioritization: A B2B lead scoring model based on machine learning. Frontiers in Artificial Intelligence, 8, 1554325. https://doi.org/10.3389/frai.2025.1554325
+ER  - 
+
+TY  - JOUR
+AU  - Petrović, M.
+PY  - 2020
+TI  - Data quality in customer relationship management (CRM): Literature review
+T2  - Strategic Management
+SP  - 40
+EP  - 47
+DO  - 10.5937/StraMan2002040P
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Petrović, M. (2020). Data quality in customer relationship management (CRM): Literature review. Strategic Management, 25(2), 40–47. https://doi.org/10.5937/StraMan2002040P
+ER  - 
+
+TY  - JOUR
+AU  - Plotnikova, V.
+AU  - Dumas, M.
+AU  - Milani, F.
+PY  - 2020
+TI  - Adaptations of data mining methodologies: A systematic literature review
+T2  - PeerJ Computer Science
+DO  - 10.7717/peerj-cs.267
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Plotnikova, V., Dumas, M., y Milani, F. (2020). Adaptations of data mining methodologies: A systematic literature review. PeerJ Computer Science, 6, e267. https://doi.org/10.7717/peerj-cs.267
+ER  - 
+
+TY  - JOUR
+AU  - Reiff, J.
+AU  - Schlegel, D.
+PY  - 2022
+TI  - Hybrid project management – a systematic literature review
+T2  - International Journal of Information Systems and Project Management
+SP  - 45
+EP  - 63
+DO  - 10.12821/ijispm100203
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Reiff, J., y Schlegel, D. (2022). Hybrid project management – a systematic literature review. International Journal of Information Systems and Project Management, 10(2), 45–63. https://doi.org/10.12821/ijispm100203
+ER  - 
+
+TY  - JOUR
+AU  - Saltz, J. S.
+AU  - Krasteva, I.
+PY  - 2022
+TI  - Current approaches for executing big data science projects—a systematic literature review
+T2  - PeerJ Computer Science
+DO  - 10.7717/peerj-cs.862
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Saltz, J. S., y Krasteva, I. (2022). Current approaches for executing big data science projects—a systematic literature review. PeerJ Computer Science, 8, e862. https://doi.org/10.7717/peerj-cs.862
+ER  - 
+
+TY  - JOUR
+AU  - Shimaoka, A. M.
+AU  - Ferreira, R. C.
+AU  - Goldman, A.
+PY  - 2024
+TI  - The evolution of CRISP-DM for data science: Methods, processes and frameworks
+T2  - SBC Reviews on Computer Science
+SP  - 28
+EP  - 43
+DO  - 10.5753/reviews.2024.3757
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Shimaoka, A. M., Ferreira, R. C., y Goldman, A. (2024). The evolution of CRISP-DM for data science: Methods, processes and frameworks. SBC Reviews on Computer Science, 4(1), 28–43. https://doi.org/10.5753/reviews.2024.3757
+ER  - 
+
+TY  - JOUR
+AU  - Shimaoka, A. M.
+AU  - Ferreira, R. C.
+AU  - Goldman, A.
+PY  - 2025
+TI  - Integrating CRISP-DM and eXtreme Programming in agile data science projects
+T2  - European Journal of Electrical Engineering and Computer Science
+SP  - 1
+EP  - 7
+DO  - 10.24018/ejece.2025.9.4.739
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Shimaoka, A. M., Ferreira, R. C., y Goldman, A. (2025). Integrating CRISP-DM and eXtreme Programming in agile data science projects. European Journal of Electrical Engineering and Computer Science, 9(4), 1–7. https://doi.org/10.24018/ejece.2025.9.4.739
+ER  - 
+
+TY  - JOUR
+AU  - Studer, S.
+AU  - Bui, T. B.
+AU  - Drescher, C.
+AU  - Hanuschkin, A.
+AU  - Winkler, L.
+AU  - Peters, S.
+AU  - Müller, K.-R.
+PY  - 2021
+TI  - Towards CRISP-ML(Q): A machine learning process model with quality assurance methodology
+T2  - Machine Learning and Knowledge Extraction
+SP  - 392
+EP  - 413
+DO  - 10.3390/make3020020
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Studer, S., Bui, T. B., Drescher, C., Hanuschkin, A., Winkler, L., Peters, S., y Müller, K.-R. (2021). Towards CRISP-ML(Q): A machine learning process model with quality assurance methodology. Machine Learning and Knowledge Extraction, 3(2), 392–413. https://doi.org/10.3390/make3020020
+ER  - 
+
+TY  - JOUR
+AU  - Talkam, I.
+AU  - Hamzane, I.
+AU  - Belangour, A.
+PY  - 2026
+TI  - An AI-enhanced hybrid project management model: A comparative evaluation using the weighted sum model
+T2  - Bulletin of Electrical Engineering and Informatics
+DO  - 10.11591/eei.v15i3.10757
+KW  - TFM T-004
+KW  - Origen: Revistas de acceso abierto (PeerJ, MDPI, Frontiers, IJISPM, BEEI y otras)
+N1  - Referencia APA: Talkam, I., Hamzane, I., y Belangour, A. (2026). An AI-enhanced hybrid project management model: A comparative evaluation using the weighted sum model. Bulletin of Electrical Engineering and Informatics, 15(3). https://doi.org/10.11591/eei.v15i3.10757
+ER  - 
+
+TY  - GEN
+AU  - Amirian, E.
+AU  - Abdollahzadeh, A.
+AU  - Sulaiman, N.
+PY  - 2024
+TI  - Synergizing hybrid agile-Scrum and CRISP-DM approaches in data science project management [Ponencia]
+PB  - Society of Petroleum Engineers.
+DO  - 10.2118/218114-MS
+KW  - TFM T-004
+KW  - Origen: Actas de congreso: HICSS, ACM, SPE y otras
+N1  - Referencia APA: Amirian, E., Abdollahzadeh, A., y Sulaiman, N. (2024). Synergizing hybrid agile-Scrum and CRISP-DM approaches in data science project management [Ponencia]. Society of Petroleum Engineers. https://doi.org/10.2118/218114-MS
+ER  - 
+
+TY  - CONF
+AU  - Nygård, R.
+AU  - Mezei, J.
+PY  - 2020
+TI  - Automating lead scoring with machine learning: An experimental study
+T2  - Proceedings of the 53rd Hawaii International Conference on System Sciences
+SP  - 1439
+EP  - 1448
+UR  - http://hdl.handle.net/10125/63916
+KW  - TFM T-004
+KW  - Origen: Actas de congreso: HICSS, ACM, SPE y otras
+N1  - Referencia APA: Nygård, R., y Mezei, J. (2020). Automating lead scoring with machine learning: An experimental study. En Proceedings of the 53rd Hawaii International Conference on System Sciences (pp. 1439–1448). http://hdl.handle.net/10125/63916
+ER  - 
+
+TY  - GEN
+AU  - Rossi, R.
+PY  - 2025
+TI  - DASPROMM – Data science project management and MLOps
+PB  - ACM.
+DO  - 10.1145/3783862.3783870
+KW  - TFM T-004
+KW  - Origen: Actas de congreso: HICSS, ACM, SPE y otras
+N1  - Referencia APA: Rossi, R. (2025). DASPROMM – Data science project management and MLOps. ACM. https://doi.org/10.1145/3783862.3783870
+ER  - 
+
+TY  - CONF
+AU  - Saltz, J.
+AU  - Shamshurin, I.
+AU  - Crowston, K.
+PY  - 2017
+TI  - Comparing data science project management methodologies via a controlled experiment
+T2  - Proceedings of the 50th Hawaii International Conference on System Sciences
+DO  - 10.24251/HICSS.2017.120
+KW  - TFM T-004
+KW  - Origen: Actas de congreso: HICSS, ACM, SPE y otras
+N1  - Referencia APA: Saltz, J., Shamshurin, I., y Crowston, K. (2017). Comparing data science project management methodologies via a controlled experiment. En Proceedings of the 50th Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2017.120
+ER  - 
+
+TY  - CONF
+AU  - Saltz, J.
+AU  - Sutherland, A.
+AU  - Hotz, N.
+PY  - 2022
+TI  - Achieving lean data science agility via Data Driven Scrum
+T2  - Proceedings of the 55th Hawaii International Conference on System Sciences
+DO  - 10.24251/HICSS.2022.876
+KW  - TFM T-004
+KW  - Origen: Actas de congreso: HICSS, ACM, SPE y otras
+N1  - Referencia APA: Saltz, J., Sutherland, A., y Hotz, N. (2022). Achieving lean data science agility via Data Driven Scrum. En Proceedings of the 55th Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.876
+ER  - 
+
+TY  - RPRT
+AU  - Chérif, A.
+PY  - 2025
+TI  - TDAMR: A novel three-day agile methodology with decision gates for AI project management
+DO  - 10.21203/rs.3.rs-6489646/v1
+KW  - TFM T-004
+KW  - Origen: Preprints y documentos sin revisión por pares (uso con cautela)
+N1  - Referencia APA: Chérif, A. (2025). TDAMR: A novel three-day agile methodology with decision gates for AI project management [Preprint]. Research Square. https://doi.org/10.21203/rs.3.rs-6489646/v1
+ER  - 
+
+TY  - GEN
+AU  - Rahman, T.
+PY  - 2025
+TI  - Development of a decision-support model for agile hybrid engineering project delivery in technology driven organizations [Revista de impacto no verificado].
+DO  - 10.63125/v7jjv448
+KW  - TFM T-004
+KW  - Origen: Preprints y documentos sin revisión por pares (uso con cautela)
+N1  - Referencia APA: Rahman, T. (2025). Development of a decision-support model for agile hybrid engineering project delivery in technology driven organizations [Revista de impacto no verificado]. https://doi.org/10.63125/v7jjv448
+ER  - 
+
+TY  - RPRT
+AU  - Kolkman, D.
+AU  - Sneep, R.
+PY  - 2019
+TI  - Challenges to data science projects with SMEs: An analysis and decision support tool
+DO  - 10.2139/ssrn.3343092
+KW  - TFM T-004
+KW  - Origen: Preprints y documentos sin revisión por pares (uso con cautela)
+N1  - Referencia APA: Kolkman, D., y Sneep, R. (2019). Challenges to data science projects with SMEs: An analysis and decision support tool [Preprint]. SSRN. https://doi.org/10.2139/ssrn.3343092
+ER  - 
+
+TY  - THES
+AU  - Blasweiler, M. C.
+PY  - 2019
+TI  - Incorporation of successful Agile elements in Data Science development processes: How a possible model is perceived by experts
+UR  - https://research.ou.nl/en/studentTheses/incorporation-of-succesful-agile-elements-in-data-science-develop
+KW  - TFM T-004
+KW  - Origen: Repositorios institucionales: tesis y trabajos finales
+N1  - Referencia APA: Blasweiler, M. C. (2019). Incorporation of successful Agile elements in Data Science development processes: How a possible model is perceived by experts [Tesis de máster, Open Universiteit]. https://research.ou.nl/en/studentTheses/incorporation-of-succesful-agile-elements-in-data-science-develop
+ER  - 
+
+TY  - THES
+AU  - Montalvo García, J. F.
+PY  - 2021
+TI  - CRISP-DM/SMEs: una metodología de proyectos de analítica de datos para las PYME
+UR  - https://repository.udemedellin.edu.co/items/86d987b4-3752-4adf-9a14-12dc08dec451
+KW  - TFM T-004
+KW  - Origen: Repositorios institucionales: tesis y trabajos finales
+N1  - Referencia APA: Montalvo García, J. F. (2021). CRISP-DM/SMEs: una metodología de proyectos de analítica de datos para las PYME [Tesis, Universidad de Medellín]. https://repository.udemedellin.edu.co/items/86d987b4-3752-4adf-9a14-12dc08dec451
+ER  - 
+
+TY  - THES
+AU  - Ulla, G.
+PY  - 2020
+TI  - Optimización de proyectos en el lifecycle de procesos analíticos para una multinacional de software
+UR  - https://core.ac.uk/download/395734172.pdf
+KW  - TFM T-004
+KW  - Origen: Repositorios institucionales: tesis y trabajos finales
+N1  - Referencia APA: Ulla, G. (2020). Optimización de proyectos en el lifecycle de procesos analíticos para una multinacional de software [Trabajo final, Universidad Nacional de Córdoba]. https://core.ac.uk/download/395734172.pdf
+ER  - 
+
+TY  - THES
+AU  - van Ingen, E.
+PY  - 2020
+TI  - A data analytics methodology for a fast-changing discipline
+UR  - https://research.ou.nl/en/studentTheses/a-data-analytics-methodology-for-a-fast-changing-discipline
+KW  - TFM T-004
+KW  - Origen: Repositorios institucionales: tesis y trabajos finales
+N1  - Referencia APA: van Ingen, E. (2020). A data analytics methodology for a fast-changing discipline [Tesis de máster, Open Universiteit]. https://research.ou.nl/en/studentTheses/a-data-analytics-methodology-for-a-fast-changing-discipline
+ER  - 
+
+TY  - BOOK
+AU  - Kuna, H. D.
+AU  - Arroquia Cuadros, B.
+AU  - Reyero Diez, R.
+AU  - Crespo Quintero, R. L.
+AU  - Peralta Martín-Palomino, A.
+PY  - 2025
+TI  - Metodología híbrida e iterativa para búsqueda bibliográfica, utilizando búsqueda manual e IA generativa
+KW  - TFM T-004
+KW  - Origen: Documentos docentes de la VIU
+N1  - Referencia APA: Kuna, H. D., Arroquia Cuadros, B., Reyero Diez, R., Crespo Quintero, R. L., y Peralta Martín-Palomino, A. (2025). Metodología híbrida e iterativa para búsqueda bibliográfica, utilizando búsqueda manual e IA generativa (V.04) [Documento docente]. Universidad Internacional de Valencia.
+ER  - 
+
+TY  - BOOK
+AU  - Project Management Institute
+PY  - 2021
+TI  - A guide to the project management body of knowledge (PMBOK guide)
+KW  - TFM T-004
+KW  - Origen: Manual
+N1  - Referencia APA: Project Management Institute. (2021). A guide to the project management body of knowledge (PMBOK guide) (7.ª ed.). Project Management Institute.
+ER  - 
+
+TY  - JOUR
+AU  - Page, M. J.
+AU  - McKenzie, J. E.
+AU  - Bossuyt, P. M.
+AU  - Boutron, I.
+AU  - Hoffmann, T. C.
+AU  - Mulrow, C. D.
+AU  - Shamseer, L.
+AU  - Tetzlaff, J. M.
+AU  - Akl, E. A.
+AU  - Brennan, S. E.
+AU  - Chou, R.
+AU  - Glanville, J.
+AU  - Grimshaw, J. M.
+AU  - Hróbjartsson, A.
+AU  - Lalu, M. M.
+AU  - Li, T.
+AU  - Loder, E. W.
+AU  - Mayo-Wilson, E.
+AU  - McDonald, S.
+AU  - … Moher, D.
+PY  - 2021
+TI  - The PRISMA 2020 statement: An updated guideline for reporting systematic reviews
+T2  - BMJ
+DO  - 10.1136/bmj.n71
+KW  - TFM T-004
+KW  - Origen: Marco metodológico
+N1  - Referencia APA: Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., … Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. BMJ, 372, n71. https://doi.org/10.1136/bmj.n71
+ER  - 
