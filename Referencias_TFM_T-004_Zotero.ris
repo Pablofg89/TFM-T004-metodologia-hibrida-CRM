@@ -145,9 +145,10 @@ TI  - What are hybrid development methods made of? An evidence-based characteriz
 T2  - 2019 IEEE/ACM International Conference on Software and System Processes (ICSSP)
 SP  - 105
 EP  - 114
+DO  - 10.1109/ICSSP.2019.00022
 KW  - TFM T-004
 KW  - Origen: Bases de datos académicas: IEEE Xplore
-N1  - Referencia APA: Tell, P., Klünder, J., Küpper, S., Raffo, D., MacDonell, S. G., Münch, J., Pfahl, D., Linssen, O., y Kuhrmann, M. (2019). What are hybrid development methods made of? An evidence-based characterization. En 2019 IEEE/ACM International Conference on Software and System Processes (ICSSP) (pp. 105–114).
+N1  - Referencia APA: Tell, P., Klünder, J., Küpper, S., Raffo, D., MacDonell, S. G., Münch, J., Pfahl, D., Linssen, O., y Kuhrmann, M. (2019). What are hybrid development methods made of? An evidence-based characterization. En 2019 IEEE/ACM International Conference on Software and System Processes (ICSSP) (pp. 105–114). https://doi.org/10.1109/ICSSP.2019.00022
 ER  - 
 
 TY  - JOUR
@@ -337,17 +338,19 @@ KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
 N1  - Referencia APA: Peffers, K., Tuunanen, T., Rothenberger, M. A., y Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45–77. https://doi.org/10.2753/MIS0742-1222240302
 ER  - 
 
-TY  - GEN
+TY  - CONF
 AU  - Rösl, S.
 AU  - Auer, T.
 AU  - Schieder, C.
 PY  - 2023
 TI  - Addressing the data challenge in manufacturing SMEs: A comparative study of data analytics applications with a simplified reference model
-PB  - Springer.
+T2  - Communications in Computer and Information Science
+SP  - 121
+EP  - 130
 DO  - 10.1007/978-3-031-40213-5_9
 KW  - TFM T-004
 KW  - Origen: Springer, Taylor & Francis, SAGE, Emerald e Inderscience
-N1  - Referencia APA: Rösl, S., Auer, T., y Schieder, C. (2023). Addressing the data challenge in manufacturing SMEs: A comparative study of data analytics applications with a simplified reference model. Springer. https://doi.org/10.1007/978-3-031-40213-59
+N1  - Referencia APA: Rösl, S., Auer, T., y Schieder, C. (2023). Addressing the data challenge in manufacturing SMEs: A comparative study of data analytics applications with a simplified reference model. En Communications in Computer and Information Science (pp. 121–130). Springer. https://doi.org/10.1007/978-3-031-40213-59
 ER  - 
 
 TY  - JOUR
@@ -557,7 +560,7 @@ N1  - Referencia APA: Rossi, R. (2025). DASPROMM – Data science project manage
 ER  - 
 
 TY  - CONF
-AU  - Saltz, J.
+AU  - Saltz, J. S.
 AU  - Shamshurin, I.
 AU  - Crowston, K.
 PY  - 2017
@@ -566,11 +569,11 @@ T2  - Proceedings of the 50th Hawaii International Conference on System Sciences
 DO  - 10.24251/HICSS.2017.120
 KW  - TFM T-004
 KW  - Origen: Actas de congreso: HICSS, ACM, SPE y otras
-N1  - Referencia APA: Saltz, J., Shamshurin, I., y Crowston, K. (2017). Comparing data science project management methodologies via a controlled experiment. En Proceedings of the 50th Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2017.120
+N1  - Referencia APA: Saltz, J. S., Shamshurin, I., y Crowston, K. (2017). Comparing data science project management methodologies via a controlled experiment. En Proceedings of the 50th Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2017.120
 ER  - 
 
 TY  - CONF
-AU  - Saltz, J.
+AU  - Saltz, J. S.
 AU  - Sutherland, A.
 AU  - Hotz, N.
 PY  - 2022
@@ -579,7 +582,7 @@ T2  - Proceedings of the 55th Hawaii International Conference on System Sciences
 DO  - 10.24251/HICSS.2022.876
 KW  - TFM T-004
 KW  - Origen: Actas de congreso: HICSS, ACM, SPE y otras
-N1  - Referencia APA: Saltz, J., Sutherland, A., y Hotz, N. (2022). Achieving lean data science agility via Data Driven Scrum. En Proceedings of the 55th Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.876
+N1  - Referencia APA: Saltz, J. S., Sutherland, A., y Hotz, N. (2022). Achieving lean data science agility via Data Driven Scrum. En Proceedings of the 55th Hawaii International Conference on System Sciences. https://doi.org/10.24251/HICSS.2022.876
 ER  - 
 
 TY  - RPRT
